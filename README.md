@@ -48,7 +48,7 @@
   </a> 
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minarulns&theme=2077)|
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minarulns&theme=2077" alt=minarulns" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark&hide_title=false&card_width=300" alt="minarulns" /></p>
 
