@@ -52,4 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minarulns&show_icons=true&theme=radical" alt="minarulns" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=minarulns&theme=highcontrast" alt="minarulns" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minarulns&theme=chartreuse-dark&cache_seconds=3200" alt="minarulns" /></p>
