@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hi...++%F0%9F%91%8B;I+am+Md.+Minarul+Islam" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20views&color=0e75b6&style=flat" alt="minarulns" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minarulns" alt="minarulns" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/minarulns" target="blank"><img src="https://img.shields.io/twitter/follow/minarulns?logo=twitter&style=for-the-badge" alt="minarulns" /></a> </p>
 
@@ -16,7 +16,8 @@
 ![Discord](https://img.shields.io/badge/Discord-Minarul%20?logo=Discord)
 
 ## <h3 align="left">Languages and Tools:</h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white) ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minarulns&show_icons=true&theme=chartreuse-dark" alt="minarulns" width="500px" /></p>
 
