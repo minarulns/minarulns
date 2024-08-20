@@ -24,6 +24,6 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark&hide_title=false&card_width=300" alt="minarulns" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark" alt="Most Used Languages" style="width: 300px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark" alt="Most Used Languages" style="width: 800px;"/>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4ck3r0&theme=chartreuse-dark&cache_seconds=3200" alt="h4ck3r0" /></p>
