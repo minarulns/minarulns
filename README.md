@@ -20,7 +20,9 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minarulns&show_icons=true&theme=chartreuse-dark" alt="minarulns" width="500px" /></p>
 
-<p align="center"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minarulns&theme=2077" alt=minarulns" width="500px" /></p>
+<p align="center"> 
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minarulns&theme=2077" alt="minarulns" width="500px" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark" alt="Most Used Languages" width="500px" /></p>
