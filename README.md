@@ -27,3 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark" alt="Most Used Languages" style="width: 500px;"/>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4ck3r0&theme=chartreuse-dark&cache_seconds=3200" alt="h4ck3r0" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minarulns&theme=chartreuse-dark&cache_seconds=3200" alt="minarulns" width="300px" />
+</p>
