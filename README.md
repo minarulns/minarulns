@@ -1,9 +1,4 @@
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=minarulns&icon=5&color=blue" alt="Visit Count"/>
-  </a>
-</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20views&color=0e75b6&style=flat" alt="minarulns" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20views&color=0e75b6&style=flat" alt="minarulns"/></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hi...++%F0%9F%91%8B;I+am+Md.+Minarul+Islam" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
