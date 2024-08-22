@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hi...++%F0%9F%91%8B;I+am+Md.+Minarul+Islam" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p
 
 
 ## 🌐 Socials:
