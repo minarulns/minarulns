@@ -13,7 +13,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## My Stats
-<p align="center"> <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD)](https://git.io/awesome-stats-card" alt="minarulns" width="500px" /></p>
+<p align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD)](https://git.io/awesome-stats-card" alt="minarulns" width="500px" /></p>
+
+<p align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD">    <img  alt="minarulns's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD" width="500px" />  </a></p>
 
 <p align="center"> 
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minarulns&theme=2077" alt="minarulns" width="500px" />
