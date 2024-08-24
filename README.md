@@ -1,9 +1,16 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20views&color=0e75b6&style=flat" alt="minarulns"/></p>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20views&color=0e75b6&style=flat" alt="minarulns"/>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hi...++%F0%9F%91%8B;I+am+Md.+Minarul+Islam" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hi...++%F0%9F%91%8B;I+am+Md.+Minarul+Islam" alt="Typing SVG" />
+</a>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p
 
+<p align="right"> 
+  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD.MINARULNS) 
@@ -23,16 +30,17 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## My Stats
-<p align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD)](https://git.io/awesome-stats-card" alt="minarulns" width="500px" /></p>
-
-<p align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD">    <img  alt="minarulns's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD" width="500px" />  </a></p>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD" alt="minarulns" width="500px" />
+</p>
 
 <p align="center"> 
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minarulns&theme=2077" alt="minarulns" width="500px" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark" alt="Most Used Languages" width="500px" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarulns&layout=compact&theme=github_dark" alt="Most Used Languages" width="500px" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minarulns&theme=chartreuse-dark&cache_seconds=3200" alt="minarulns" width="500px" />
