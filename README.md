@@ -9,7 +9,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="right"> 
-  <img alt="Coder GIF" height=250 width=350 src="https://github.com/user-attachments/assets/9849db32-839f-4f57-84d4-613e216fd75e" />
+  <img alt="Coder GIF" height=250 width=350 src="https://github.com/user-attachments/assets/9849db32-839f-4f57-84d4-613e216fd75e" autoplay loop/>
 </p>
 
 ## 🌐 Socials:
