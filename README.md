@@ -4,8 +4,7 @@
 <p align="center">
 <table border="0">
  <tr>
-    <td>
-      <br><p align="center"><img src="https://raw.githubusercontent.com/minarulns/minarulns/main/assets/images/Profile.png" alt="Profile" width="150px" height="100px"/>
+    <td
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minarul+Islam;"/>
      <img width="100" align="center" src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20Visitor&color=0e75b6&style=flat" alt="minarulns"/>
       <br>
