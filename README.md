@@ -1,6 +1,7 @@
 
 <img width=100% title="MINARUL MJ" alt="MINARUL MJ" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MINARUL-🔰-MJ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
+<p align="center">
 <table border="0">
  <tr>
     <td>
@@ -14,6 +15,7 @@
    </td>  
  </tr>  
 </table>
+</p>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height=30px> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD.MINARULNS) 
