@@ -6,7 +6,7 @@
     <td>
       <br>
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minarul+Islam;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20Visitor&color=0e75b6&style=flat" alt="minarulns"/>
+     <img width="100" align="center" src="https://komarev.com/ghpvc/?username=minarulns&label=Profile%20Visitor&color=0e75b6&style=flat" alt="minarulns"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=minarulns&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
@@ -15,15 +15,13 @@
  </tr>  
 </table>
 
-
-
-## 🌐 Socials:
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height=30px> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD.MINARULNS) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minarulns) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Minarulns) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@minarulkingns) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@minarulns)
-[![Discord](https://img.shields.io/badge/Discord-Minarul%20?logo=Discord&logoColor=white)](https://discord.com/@minarulns)
+[![Discord](https://img.shields.io/badge/Discord-Minarul%20?logo=Discord&logoColor=white)](https://discord.com/@minarulns
 
 ## <h3 align="left">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
