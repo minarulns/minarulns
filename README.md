@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Minarulns) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@minarulkingns) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@minarulns)
-[![Discord](https://img.shields.io/badge/Discord-Minarul%20?logo=Discord&logoColor=white)](https://discord.com/@minarulns
+[![Discord](https://img.shields.io/badge/Discord-Minarul%20?logo=Discord&logoColor=white)](https://discord.com/@minarulns)
 
 ## <h3 align="left">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
