@@ -48,3 +48,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minarulns&theme=chartreuse-dark&cache_seconds=3200" alt="minarulns" width="500px" />
 </p>
+<!-- Footer -->
+
+<img src="./assets/images/Footer.jpg">
