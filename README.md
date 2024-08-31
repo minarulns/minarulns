@@ -33,7 +33,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## My Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=10% valign="bottom"> My Stats
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/minarulns?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DDDBDB&Background=000000&Text=DDDDDD" alt="minarulns" width="500px" />
 </p>
